@@ -1,2 +1,4 @@
 Hello World!
-My name is Brighten Nengim
+My name is Brighten Nengim.
+
+I have been able to commit my first task.
